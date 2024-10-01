@@ -1,4 +1,4 @@
-# Rising Sun Bike Racing Game
+# Racing Game
 
 This is a 2D bike racing game developed using SDL (Simple DirectMedia Layer) in C++. The game features a bike that can jump over obstacles and navigate through a scrolling background.
 
